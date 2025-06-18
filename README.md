@@ -13,5 +13,5 @@
 The plugin requires to be run on **linux**
 
 **GCC**<br>
-**Terminator**
+**xterm**
 
